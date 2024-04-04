@@ -11,7 +11,6 @@
 ## Roadmap
 
 - Implement UI for configuring file organization preferences.
-- Add support for scheduling file organization tasks.
 
 ## Stay Tuned
 
